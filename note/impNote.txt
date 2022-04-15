@@ -1,0 +1,1 @@
+This lwc specialist superbadge contains the optimized code for the same with resolution of some rendering errors while opening the tab.
